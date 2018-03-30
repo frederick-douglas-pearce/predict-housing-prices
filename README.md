@@ -3,7 +3,7 @@ predict_housing_prices.py
 **predict_housing_prices.ipynb** contains a set of Jupyter notebooks for
 predicting housing prices using regression kriging.
 
-![Housing Data Figure](https://github.com/fdphd15/data-analysis-tools/blob/master/Plots/NCal_modis_olrc.png)
+![Housing Data Figure](https://github.com/fdphd15/predict-housing-prices/blob/master/Plots/NCal_modis_olrc.png)
 
 ## Usage
 * Download a copy from github
