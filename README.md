@@ -31,8 +31,3 @@ $ jupyter notebook California_Housing_Analysis.ipynb
 * You may obtain a copy of the License from
 [LICENSE](https://github.com/fdphd15/housing-price-analysis/blob/master/LICENSE.md) or
 [here](http://www.apache.org/licenses/LICENSE-2.0)
- 
-## Contact
-#### Frederick D. Pearce
-* e-mail: fdphd15@users.noreply.github.com
-
